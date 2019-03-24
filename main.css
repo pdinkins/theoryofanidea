@@ -1,0 +1,30 @@
+
+* {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1 {
+    align-content: center;
+    padding-top: 10%;
+    padding-left: 33%;
+    padding-right: 33%;
+
+}
+h2 {
+    align-content: center;
+    padding-left: 33%;
+    padding-right: 33%;
+}
+
+#box1 {
+    width: 25%;
+    float: left;
+}
+
+#box2 {
+    width: 25%;
+    float: right;
+}
+#title {
+    width: 50%;
+}
